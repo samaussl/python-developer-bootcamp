@@ -1,0 +1,20 @@
+# PyCharm & IDE files (Keep your local settings private)
+.idea/
+.vscode/
+*.swp
+
+# Python environment & cache (No need to upload these)
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive Data (The most important part!)
+secrets.txt
+config_private.py
+*.csv
+*.xlsx
