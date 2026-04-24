@@ -33,6 +33,8 @@ while continue_bidding:
     elif more_bids == "yes":
         print("\n" * 20)
 
+
     else:
+        print("\n" * 20)
         print("You entered an invalid option. Please try again.")
         continue
